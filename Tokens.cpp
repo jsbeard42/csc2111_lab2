@@ -34,7 +34,8 @@ Tokens::Tokens(String* str, char delimiter)
       }
       current_loc = next_loc + 1;
    }
-}
+} 
+//testing comment for GitHub
 
 Tokens::~Tokens()
 {

@@ -11,7 +11,7 @@ Random::Random()
 Random::~Random()
 {
 }
-
+// random comment
 Random* Random::getRandom()
 {
    static Random random;  //initialized when method is called the first time
