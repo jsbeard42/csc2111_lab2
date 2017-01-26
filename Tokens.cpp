@@ -36,6 +36,7 @@ Tokens::Tokens(String* str, char delimiter)
    }
 } 
 //testing comment for GitHub
+//changing now
 
 Tokens::~Tokens()
 {
